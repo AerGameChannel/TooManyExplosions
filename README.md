@@ -1,5 +1,3 @@
-# The repository is now archived and won't get updates.
-
 # TooManyExplosions
 SpiderHeck mod which replaces all the weapons with grenades and mines.
 
